@@ -42,7 +42,7 @@ new Vue({
           artist: "Bernafas Tanpa mu",
           cover: "https://raw.githack.com/biruabuhitam/musik/main/musik%20indo/image/virgoun.jpg",
           source: "https://raw.githack.com/biruabuhitam/musik/main/musik%20indo/music%20indo/Last%20Child.mp3",
-          url: "https://mpahmah.github.io/",
+          url: "https://menuju2030.blogspot.com/",
           favorited: false
         },
         {
